@@ -1,4 +1,4 @@
-Sure! Here's the revised `README.md` without the project structure section:
+
 
 ```markdown
 # Sentiment Analysis of News Articles
