@@ -170,6 +170,14 @@ This allows you to query, analyze, and manage the sentiment data over time.
 
 ---
 
+## Running the Application
+
+To execute an sample, run the following command:
+
+```bash
+python load_mongodb.py
+```
+
 With MongoDB and Compass, managing your sentiment analysis data is simple and efficient. You can use the database for extended analysis and integrate it with other tools for more advanced use cases.
 
 ---
