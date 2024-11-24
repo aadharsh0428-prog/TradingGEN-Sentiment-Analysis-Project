@@ -97,7 +97,6 @@ The sentiment analysis results for each company are saved in the MongoDB `Tradin
 - Published Date
 - Sentiment (Positive, Negative, Neutral)
 - Compound Score (VADER's detailed sentiment score)
-- F1 Score (for model accuracy)
 
 This allows you to query, analyze, and manage the sentiment data over time.
 
