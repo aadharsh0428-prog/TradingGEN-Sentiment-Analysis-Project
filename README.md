@@ -1,6 +1,7 @@
+Here is the plain text version of the README content without any Markdown formatting:
 
+---
 
-```markdown
 # Sentiment Analysis of News Articles
 
 This project provides sentiment analysis of news articles related to various companies using data from the [NewsAPI](https://newsapi.org/). It uses VADER Sentiment Analysis to categorize articles as Positive, Negative, or Neutral, and visualizes the sentiment distribution as pie charts using Plotly.
@@ -89,6 +90,7 @@ http://127.0.0.1:5000/
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
 
-This version omits the project structure section while keeping the rest of the information intact. You can replace placeholders (like the `git clone` URL) with the actual details for your project.
+---
+
+This version removes all Markdown formatting and provides the content in plain text format.
