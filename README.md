@@ -1,7 +1,3 @@
-Here is the plain text version of the README content without any Markdown formatting:
-
----
-
 # Sentiment Analysis of News Articles
 
 This project provides sentiment analysis of news articles related to various companies using data from the [NewsAPI](https://newsapi.org/). It uses VADER Sentiment Analysis to categorize articles as Positive, Negative, or Neutral, and visualizes the sentiment distribution as pie charts using Plotly.
